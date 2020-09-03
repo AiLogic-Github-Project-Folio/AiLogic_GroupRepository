@@ -1,0 +1,209 @@
+
+<!-- lets discuss how this document works please -->   
+
+
+
+<!-- html document type stipulated -->   
+<!DOCTYPE html>
+
+
+
+<!-- opening document tag -->
+<html>
+  
+  <!-- title -->
+<title> Template</title>
+  
+  
+ <!-- meta data sizings and css styles  -->
+
+  <!-- charecters -->
+  <meta charset="UTF-8">
+  
+  <!-- width -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- this snippet impacts entire design --- style sampled source (how can i creste my own source links-->
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+  
+  
+<!-- rel -->
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+  
+  
+<!-- rel -->
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+
+  
+  <!-- font sizes & typography aswell as colours -->
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+  
+  
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1500px;">
+
+  
+  
+ <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    
+<!-- Left Column -->
+    <div class="w3-third">
+
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="/w3images/avatar_hat.jpg" style="width:100%" alt="Avatar">
+        
+<!-- class contains display on bottom left of container with text  -->
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+            
+            
+  <!-- text title displayed on page in sizes h2 &h3 -->          
+            <h2>AiLogic Member </h2>
+            <h3>Progress Profile</h3>
+          </div>
+          
+ <!-- div container --- job title displayed -->
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Designer</p>
+
+<!-- div container --- country displayed -->
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>London, UK</p>
+
+          <hr>
+          
+  <!-- --- skill title paragraph -->
+ </i>Skills</b></p>
+    
+    
+ <!-- here langyage bar chart displayed -->
+          <p>Go lang</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+
+<!-- here langyage bar chart displayed -->
+          <p>Typescript</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
+          </div>
+    
+<!-- here langyage bar chart displayed -->    
+          <p>Javascript</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+          </div>
+    
+<!-- here langyage bar chart displayed -->
+<p>Php</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+ 
+            
+ <!-- here language bar chart displayed -->         
+ <p>Ruby</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>  
+            
+            
+<!-- here language bar chart displayed -->            
+                <p>Java</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
+          </div>
+            
+            
+<!-- here language bar chart displayed -->               
+          <p>Javascript</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+          </div>
+
+            
+<!-- here language bar chart displayed -->       
+<p>C++</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+      
+<!-- here language bar chart displayed -->               
+ <p>C</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>  
+                 
+          </div>
+          <br>
+    <!-- here mark up bar chart displayed -->           
+          <p>Html/Css</p>
+          <div class="w3-light-grey w3-round-xlarge">
+<div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+            
+          </div>
+<!-- here language bar chart displayed -->   
+          </div>
+          <p>Python</p>
+          <div class="w3-light-grey w3-round-xlarge">
+       <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+
+<!-- here language bar chart displayed -->   
+          <p>Swift</p>
+          <div class="w3-light-grey w3-round-xlarge">
+     <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+            
+          </div>
+
+          </div>
+          <br>
+        </div>
+      </div><br>
+ 
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+      
+          <hr>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+
+  <!-- End Grid -->
+  </div>
+
+
+<!-- End Page Container -->
+</div>
+
+<!-- footer -->   
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  
+  <!-- text  -->   
+  <p>enjoy coding</p>
+
+  <!-- closing paragraph -->   
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">AiLogic</a></p>
+</footer>
+
+<!-- end body tag & close html tag -->   
+</body>
+</html>
+
+<!-- this is just grace practising page layout and ideas for designs but id like to see this design improved ---- also this is only front end so back wnd functionality needs to be implemented to scroll move the bars and celebrate the user -->   
